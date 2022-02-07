@@ -9,4 +9,4 @@ spec:
       command:
         - echo
       args:
-        - "Hello World"
+        - "Hello World from git"
